@@ -1,0 +1,15 @@
+{
+  "short_name": "Snitik Swaroop",
+  "name": "Snitik Swaroop's personal portfolio with projects, essays, reading, research, and links.",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "64x64",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0E0D10",
+  "background_color": "#F7F3EB"
+}

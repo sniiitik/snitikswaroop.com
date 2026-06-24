@@ -48,7 +48,7 @@ const RouteFrame = ({ children }) => {
 };
 
 const App = () => (
-  <Router>
+  <Router basename="/snitikswaroop.com">
     <GATracker />
     <div className="app-shell">
       <Header />
