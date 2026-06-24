@@ -1,0 +1,40 @@
+{
+  "projects": [
+    {
+      "name": "DocMind",
+      "date": "June, 2026",
+      "description": "A document intelligence platform built on a full RAG pipeline. Ingests PDFs, embeds them via sentence-transformers, stores vectors in ChromaDB, and serves answers through a Groq-backed LLaMA inference layer at low latency.",
+      "appLink": "https://github.com/sniiitik/DocMind-RAG-Intelligence-Platform"
+    },
+    {
+      "name": "CodeWeave",
+      "date": "May, 2026",
+      "description": "An autonomous coding agent that resolves GitHub issues end-to-end using a plan→execute→validate loop. Streams execution state via SSE, persists task history in Supabase, and self-corrects on failing test output.",
+      "appLink": "https://github.com/sniiitik/RepoAgent-AI-Coding-Assistant"
+    },
+    {
+      "name": "NeuralFlow",
+      "date": "April, 2026",
+      "description": "An ML pipeline orchestration system with canary deployment support, drift detection, and a real-time metrics dashboard. Built to explore MLOps infrastructure patterns outside managed platforms like SageMaker or Vertex.",
+      "appLink": "https://github.com/sniiitik/NeuralFlow"
+    },
+    {
+      "name": "Codebase Atlas",
+      "date": "March, 2026",
+      "description": "An interactive codebase visualizer that parses dependency graphs, surfaces contributor hotspots, and renders monorepo relationships as navigable D3 force graphs to support architectural decisions without digging through file trees.",
+      "appLink": "https://github.com/sniiitik/Codebase-Atlas"
+    },
+    {
+      "name": "Driftless",
+      "date": "February, 2026",
+      "description": "A distraction-free writing environment with inline AI grammar nudges and built-in version diffing. Suggestions appear without interrupting flow, and the diff view makes revisions easy to review and trust before committing.",
+      "appLink": "https://github.com/sniiitik/Driftless"
+    },
+    {
+      "name": "Meridian API",
+      "date": "January, 2026",
+      "description": "A high-throughput geocoding and routing microservice handling 2M+ requests per day with a 99.99% uptime SLA. Engineered for sustained production load, throughput optimization, and operational reliability under real traffic.",
+      "appLink": "https://github.com/sniiitik/Meridian-API"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "items": [
+    {
+      "goal": "Write consistently for one year",
+      "checked": false
+    },
+    {
+      "goal": "Ship a project publicly",
+      "checked": true
+    },
+    {
+      "goal": "Read 100 meaningful books",
+      "checked": false,
+      "state": "12"
+    },
+    {
+      "goal": "Build a useful open-source tool",
+      "checked": false
+    },
+    {
+      "goal": "Launch a small internet business",
+      "checked": false
+    },
+    {
+      "goal": "Give a public talk",
+      "checked": true
+    },
+    {
+      "goal": "Publish a long-form essay",
+      "checked": true
+    },
+    {
+      "goal": "Learn a new programming language deeply",
+      "checked": true
+    },
+    {
+      "goal": "Run a half marathon",
+      "checked": false
+    },
+    {
+      "goal": "Visit a new country",
+      "checked": false
+    },
+    {
+      "goal": "See the northern lights",
+      "checked": false
+    },
+    {
+      "goal": "Take a solo trip",
+      "checked": true
+    },
+    {
+      "goal": "Create a personal knowledge system",
+      "checked": true
+    },
+    {
+      "goal": "Mentor someone through a project",
+      "checked": true
+    },
+    {
+      "goal": "Build a hardware prototype",
+      "checked": true
+    },
+    {
+      "goal": "Record a podcast episode",
+      "checked": false
+    },
+    {
+      "goal": "Write a small book or guide",
+      "checked": false
+    },
+    {
+      "goal": "Host a dinner with interesting people",
+      "checked": false
+    },
+    {
+      "goal": "Learn to cook five signature meals",
+      "checked": false,
+      "state": "6"
+    },
+    {
+      "goal": "Contribute to a cause I care about",
+      "checked": false
+    },
+    {
+      "goal": "Make a short film",
+      "checked": false
+    },
+    {
+      "goal": "Live in another city for a month",
+      "checked": true
+    },
+    {
+      "goal": "Design and print a personal zine",
+      "checked": false
+    },
+    {
+      "goal": "Get stronger for six months straight",
+      "checked": false
+    },
+    {
+      "goal": "Learn enough photography to be dangerous",
+      "checked": false
+    },
+    {
+      "goal": "Build a beautiful tiny website",
+      "checked": true
+    },
+    {
+      "goal": "Start a newsletter",
+      "checked": true
+    },
+    {
+      "goal": "Meet five online friends in person",
+      "checked": false
+    },
+    {
+      "goal": "Make something that helps strangers",
+      "checked": false
+    },
+    {
+      "goal": "Own my domain",
+      "checked": true
+    },
+    {
+      "goal": "Learn to play a musical instrument",
+      "checked": true
+    }
+  ]
+}

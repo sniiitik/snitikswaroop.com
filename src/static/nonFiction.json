@@ -1,0 +1,62 @@
+[
+  {
+    "book": "The Courage to be Disliked",
+    "author": "Ichiro Kishimi and Fumitake Koga",
+    "tags": ["philosophy", "self-improvement"]
+  },
+  {
+    "book": "The Messy Middle",
+    "author": "Scott Belsky",
+    "tags": ["entrepreneurship", "leadership"]
+  },
+  {
+    "book": "Atomic Habits",
+    "author": "James Clear",
+    "tags": ["self-improvement", "systems-thinking"]
+  },
+  {
+    "book": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "tags": ["psychology", "decision-making", "research"]
+  },
+  {
+    "book": "Shoe Dog",
+    "author": "Phil Knight",
+    "tags": ["memoir", "entrepreneurship"]
+  },
+  {
+    "book": "The Hard Thing About Hard Things",
+    "author": "Ben Horowitz",
+    "tags": ["leadership", "entrepreneurship", "management"]
+  },
+  {
+    "book": "Range",
+    "author": "David Epstein",
+    "tags": ["science", "self-improvement", "decision-making"]
+  },
+  {
+    "book": "The Beginning of Infinity",
+    "author": "David Deutsch",
+    "tags": ["science", "philosophy", "systems-thinking"]
+  },
+  {
+    "book": "Poor Charlie's Almanack",
+    "author": "Charlie Munger",
+    "tags": ["decision-making", "psychology", "business"]
+  },
+  {
+    "book": "Steve Jobs",
+    "author": "Walter Isaacson",
+    "tags": ["biography", "technology", "entrepreneurship"]
+  },
+  {
+    "book": "The Design of Everyday Things",
+    "author": "Don Norman",
+    "tags": ["design", "product", "psychology"]
+  },
+  {
+    "book": "Zero to One",
+    "author": "Peter Thiel and Blake Masters",
+    "tags": ["strategy", "entrepreneurship", "technology"]
+  }
+]
