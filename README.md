@@ -1,4 +1,4 @@
-# Your Name — Portfolio
+# Snitik — Portfolio
 
 A personal portfolio cloned from the reference structure and modernized to run on React + Vite while preserving the same editorial look, typography, routes, and GSAP animation patterns.
 
