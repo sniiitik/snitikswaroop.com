@@ -1,5 +1,5 @@
 import React, { useEffect, useRef } from 'react';
-import { BrowserRouter as Router, Routes, Route, Navigate, useLocation } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route, Navigate, useLocation } from 'react-router-dom';
 import gsap from 'gsap';
 import ScrollTrigger from 'gsap/ScrollTrigger';
 import Header from './components/header';
@@ -48,7 +48,7 @@ const RouteFrame = ({ children }) => {
 };
 
 const App = () => (
-  <Router basename="/snitikswaroop.com">
+  <Router>
     <GATracker />
     <div className="app-shell">
       <Header />
