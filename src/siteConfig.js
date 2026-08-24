@@ -25,7 +25,7 @@ const siteConfig = {
     substack: 'https://snitik.substack.com',
     github: 'https://github.com/sniiitik',
     linkedin: 'https://www.linkedin.com/in/snitik/',
-    x: 'https://x.com/yourhandle',
+    x: 'https://x.com/sniiitik',
     calendly: 'https://calendly.com/yourhandle/30-min',
     researchResume: 'https://drive.google.com/',
     googleScholar: 'https://scholar.google.co.in/citations?user=lQarSCwAAAAJ&hl=en',

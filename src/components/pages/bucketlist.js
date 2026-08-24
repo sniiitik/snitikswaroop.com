@@ -62,7 +62,11 @@ const BucketList = () => {
             A list, <em>in progress.</em>
           </h1>
           <p className="page-intro">
-            I spend a lot of time thinking about how to live, and occasionally write about it.
+            Borrowed from Chip Huyen&apos;s{' '}
+            <a href="https://huyenchip.com/list-100/" target="_blank" rel="noreferrer">
+              List 100
+            </a>
+            . Writing it down in public keeps me honest about which items I&apos;m really chasing and which I&apos;ve outgrown
           </p>
 
           <div className="progress">

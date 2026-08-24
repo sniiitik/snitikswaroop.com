@@ -1,6 +1,12 @@
 {
   "projects": [
     {
+      "name": "Betaware",
+      "date": "August, 2026",
+      "description": "A full-stack discovery platform where founders can list and launch their beta apps or websites, showcase product visuals, and track editorial reviews. Users can explore curated products through categories, search, trending rankings, and launch archives.",
+      "appLink": "https://github.com/sniiitik/Betaware"
+    },
+    {
       "name": "DocMind",
       "date": "June, 2026",
       "description": "A document intelligence platform built on a full RAG pipeline. Ingests PDFs, embeds them via sentence-transformers, stores vectors in ChromaDB, and serves answers through a Groq-backed LLaMA inference layer at low latency.",
@@ -35,6 +41,18 @@
       "date": "January, 2026",
       "description": "A high-throughput geocoding and routing microservice handling 2M+ requests per day with a 99.99% uptime SLA. Engineered for sustained production load, throughput optimization, and operational reliability under real traffic.",
       "appLink": "https://github.com/sniiitik/Meridian-API"
+    },
+    {
+      "name": "American Sign Language Detection",
+      "date": "January, 2024",
+      "description": "A machine learning model for detecting American Sign Language gestures in real-time. Trained on a diverse dataset of signed videos and optimized for low-latency inference.",
+      "appLink": "https://github.com/sniiitik/AmericanSignLanguageDetection_ML"
+    },
+    {
+      "name": "SneakerXchange",
+      "date": "December, 2023",
+      "description": "SneakerXchange is an e-commerce platform designed for sneaker enthusiasts to buy, sell, and trade sneakers seamlessly. Built with HTML, CSS, JavaScript, MongoDB, and Node.js, it provides a robust and interactive experience for sneaker reselling.",
+      "appLink": "https://github.com/sniiitik/SneakerXchange"
     }
   ]
 }
